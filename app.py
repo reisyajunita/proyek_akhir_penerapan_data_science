@@ -10,7 +10,6 @@ feature_names = joblib.load('feature_names.pkl')
 
 # Judul aplikasi
 st.title("🎓 Prediksi Mahasiswa Dropout")
-st.header("🧾 Form Input Data Mahasiswa")
 
 # ========================
 # Fitur Numerik
