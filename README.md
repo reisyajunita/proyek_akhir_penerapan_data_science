@@ -133,7 +133,7 @@ streamlit run app.py
 ```
 
 🔗 *Link prototype (jika tersedia online):*  
-BELUM DIISI
+[link streamlit](https://jayajayajayadashboard123.streamlit.app/)
 
 ---
 
